@@ -3,7 +3,7 @@
 **An advanced and powerful xy bot based on [TeleSeed](https://github.com/seedteam/teleseed) licensed under the [GNU General Public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**.
 # Features
 
-* **A Powerful Xy System**
+* **A redteam Xy System**
 * **Setname & Setphoto Command**
 * **Xy Can Join Groups Using Link**
 * **Xy Can Spam Group**
@@ -30,9 +30,7 @@ chmod +x launch.sh
 ```
 
 # Xy By :
-[@SeyedKia](https://telegram.me/SeyedKia)
+[@RedTeam_02_04](https://telegram.me/RedTeam_02_04)
 
 
-[@MrTorento](https://telegram.me/MrTorento)
 
-Channel : [@Fucker_Team](https://telegram.me/Fucker_Team)
