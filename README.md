@@ -1,6 +1,6 @@
 # Xy
 
-**An advanced and powerful xy bot based on [TeleSeed](https://github.com/seedteam/teleseed) licensed under the [GNU General Public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**.
+**An advanced and redteam xy bot based on [TeleSeed](https://github.com/seedteam/teleseed) licensed under the [GNU General Public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**.
 # Features
 
 * **A redteam Xy System**
